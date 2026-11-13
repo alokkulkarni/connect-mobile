@@ -1,0 +1,27 @@
+{
+ "disputes": [
+  {
+   "disputeId": "DSP-PJDYW2E3",
+   "status": "draft",
+   "statusWords": "Being filled in",
+   "merchant": "ELECTROWORLD ONLINE",
+   "amount": "349.00",
+   "transactionDate": "2026-10-06",
+   "cardType": "credit",
+   "cardLastFour": "2291",
+   "missing": [
+    "Reason",
+    "In the customer's words",
+    "Customer has contacted the retailer"
+   ],
+   "open": true,
+   "updatedAt": "2026-11-02T15:45:00Z",
+   "formSentAt": "",
+   "formSentVia": "",
+   "watching": false,
+   "transactionId": "TXN-2291-20261006-34900",
+   "canSubmit": false,
+   "alreadyDisputedAs": ""
+  }
+ ]
+}

@@ -1,0 +1,256 @@
+{
+ "cards": [
+  {
+   "type": "debit",
+   "ending": "4821",
+   "name": "Visa debit card"
+  },
+  {
+   "type": "credit",
+   "ending": "2291",
+   "name": "Credit card"
+  }
+ ],
+ "payments": [
+  {
+   "id": "TXN-4821-20261015-3245",
+   "date": "2026-10-15",
+   "merchant": "AMAZON.CO.UK",
+   "amount": 32.45,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-4821-20261015-2610",
+   "date": "2026-10-15",
+   "merchant": "JUST EAT",
+   "amount": 26.1,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-4821-20261014-899",
+   "date": "2026-10-14",
+   "merchant": "AMAZON PRIME",
+   "amount": 8.99,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-4821-20261014-477",
+   "date": "2026-10-14",
+   "merchant": "STARBUCKS",
+   "amount": 4.77,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-4821-20261013-9178",
+   "date": "2026-10-13",
+   "merchant": "ALDI",
+   "amount": 91.78,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-4821-20261013-8337",
+   "date": "2026-10-13",
+   "merchant": "ALDI",
+   "amount": 83.37,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-4821-20261013-1197",
+   "date": "2026-10-13",
+   "merchant": "UBER TRIP",
+   "amount": 11.97,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-4821-20261011-2034",
+   "date": "2026-10-11",
+   "merchant": "JUST EAT",
+   "amount": 20.34,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-4821-20261010-4905",
+   "date": "2026-10-10",
+   "merchant": "AMAZON.CO.UK",
+   "amount": 49.05,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-4821-20261010-3844",
+   "date": "2026-10-10",
+   "merchant": "TICKETMASTER",
+   "amount": 38.44,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-4821-20261010-299",
+   "date": "2026-10-10",
+   "merchant": "APPLE.COM/BILL ICLOUD",
+   "amount": 2.99,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-4821-20261009-839",
+   "date": "2026-10-09",
+   "merchant": "UBER TRIP",
+   "amount": 8.39,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-4821-20261008-1099",
+   "date": "2026-10-08",
+   "merchant": "NETFLIX.COM",
+   "amount": 10.99,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-4821-20261008-507",
+   "date": "2026-10-08",
+   "merchant": "STARBUCKS",
+   "amount": 5.07,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-2291-20261008-1099",
+   "date": "2026-10-08",
+   "merchant": "NETFLIX.COM",
+   "amount": 10.99,
+   "card": "credit",
+   "ending": "2291"
+  },
+  {
+   "id": "TXN-4821-20261006-509",
+   "date": "2026-10-06",
+   "merchant": "STARBUCKS",
+   "amount": 5.09,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-2291-20261006-34900",
+   "date": "2026-10-06",
+   "merchant": "ELECTROWORLD ONLINE",
+   "amount": 349.0,
+   "card": "credit",
+   "ending": "2291"
+  },
+  {
+   "id": "TXN-4821-20261005-3781",
+   "date": "2026-10-05",
+   "merchant": "TRAINLINE.COM",
+   "amount": 37.81,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-4821-20261005-410",
+   "date": "2026-10-05",
+   "merchant": "COSTA COFFEE",
+   "amount": 4.1,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-4821-20261005-409",
+   "date": "2026-10-05",
+   "merchant": "STARBUCKS",
+   "amount": 4.09,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-4821-20261004-6690",
+   "date": "2026-10-04",
+   "merchant": "BP",
+   "amount": 66.9,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-2291-20261004-61200",
+   "date": "2026-10-04",
+   "merchant": "SUNSHINE VILLAS BOOKING",
+   "amount": 612.0,
+   "card": "credit",
+   "ending": "2291"
+  },
+  {
+   "id": "TXN-4821-20261003-5344",
+   "date": "2026-10-03",
+   "merchant": "TRAINLINE.COM",
+   "amount": 53.44,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-4821-20261003-1851",
+   "date": "2026-10-03",
+   "merchant": "JUST EAT",
+   "amount": 18.51,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-2291-20260930-24560",
+   "date": "2026-09-30",
+   "merchant": "BRITISH AIRWAYS",
+   "amount": 245.6,
+   "card": "credit",
+   "ending": "2291"
+  },
+  {
+   "id": "TXN-4821-20260929-8193",
+   "date": "2026-09-29",
+   "merchant": "ASOS.COM",
+   "amount": 81.93,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-4821-20260928-2680",
+   "date": "2026-09-28",
+   "merchant": "DELIVEROO",
+   "amount": 26.8,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-4821-20260927-5939",
+   "date": "2026-09-27",
+   "merchant": "BP",
+   "amount": 59.39,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-4821-20260927-2846",
+   "date": "2026-09-27",
+   "merchant": "DELIVEROO",
+   "amount": 28.46,
+   "card": "debit",
+   "ending": "4821"
+  },
+  {
+   "id": "TXN-2291-20260922-18900",
+   "date": "2026-09-22",
+   "merchant": "JOHN LEWIS",
+   "amount": 189.0,
+   "card": "credit",
+   "ending": "2291"
+  }
+ ]
+}

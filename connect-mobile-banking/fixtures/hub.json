@@ -1,0 +1,1747 @@
+{
+ "overview": {
+  "asOf": "2026-10-15",
+  "balance": 2828.8,
+  "thisMonthSoFar": {
+   "month": "2026-10",
+   "moneyIn": 61.14,
+   "moneyOut": 2059.73,
+   "movedToSavings": 0.0,
+   "net": -1998.59,
+   "transactions": 29
+  },
+  "months": [
+   {
+    "month": "2026-07",
+    "moneyIn": 3213.47,
+    "moneyOut": 3579.31,
+    "movedToSavings": 200.0,
+    "net": -565.84,
+    "transactions": 58
+   },
+   {
+    "month": "2026-08",
+    "moneyIn": 3375.18,
+    "moneyOut": 2756.08,
+    "movedToSavings": 200.0,
+    "net": 419.1,
+    "transactions": 55
+   },
+   {
+    "month": "2026-09",
+    "moneyIn": 3515.08,
+    "moneyOut": 3138.63,
+    "movedToSavings": 200.0,
+    "net": 176.45,
+    "transactions": 56
+   }
+  ],
+  "averageMonth": {
+   "moneyIn": 3367.91,
+   "moneyOut": 3158.01,
+   "movedToSavings": 200.0,
+   "net": 9.9
+  },
+  "topSpending": [
+   {
+    "category": "housing",
+    "words": "Mortgage or rent",
+    "total": 3150.0,
+    "count": 3,
+    "share": 33,
+    "discretionary": false
+   },
+   {
+    "category": "bills",
+    "words": "Bills and utilities",
+    "total": 1226.7,
+    "count": 18,
+    "share": 13,
+    "discretionary": false
+   },
+   {
+    "category": "groceries",
+    "words": "Groceries",
+    "total": 935.18,
+    "count": 14,
+    "share": 10,
+    "discretionary": false
+   },
+   {
+    "category": "shopping",
+    "words": "Shopping",
+    "total": 900.94,
+    "count": 16,
+    "share": 10,
+    "discretionary": true
+   },
+   {
+    "category": "holidays",
+    "words": "Holidays and travel",
+    "total": 888.65,
+    "count": 3,
+    "share": 9,
+    "discretionary": true
+   },
+   {
+    "category": "transport",
+    "words": "Transport",
+    "total": 688.36,
+    "count": 19,
+    "share": 7,
+    "discretionary": false
+   }
+  ],
+  "moneyInSources": [
+   {
+    "category": "salary",
+    "words": "Salary",
+    "total": 9450.0,
+    "count": 3,
+    "share": 94,
+    "discretionary": false
+   },
+   {
+    "category": "transfers_in",
+    "words": "Transfers in",
+    "total": 300.0,
+    "count": 1,
+    "share": 3,
+    "discretionary": false
+   },
+   {
+    "category": "other_income",
+    "words": "Other income",
+    "total": 210.93,
+    "count": 3,
+    "share": 2,
+    "discretionary": false
+   },
+   {
+    "category": "refunds",
+    "words": "Refunds",
+    "total": 142.8,
+    "count": 1,
+    "share": 1,
+    "discretionary": false
+   }
+  ]
+ },
+ "forecast": {
+  "asOf": "2026-10-15",
+  "startBalance": 2828.8,
+  "months": [
+   {
+    "month": "2026-11",
+    "expectedIn": 3220.31,
+    "expectedOut": 3061.79,
+    "regularIn": [
+     {
+      "merchant": "ACME ENGINEERING LTD SALARY",
+      "merchantName": "Acme Engineering Ltd Salary",
+      "words": "Salary",
+      "category": "salary",
+      "amount": 3150.0,
+      "date": "2026-11-25"
+     }
+    ],
+    "regularOut": [
+     {
+      "merchant": "NATIONWIDE MORTGAGE",
+      "merchantName": "Nationwide Mortgage",
+      "words": "Mortgage or rent",
+      "category": "housing",
+      "amount": 1050.0,
+      "date": "2026-11-01"
+     },
+     {
+      "merchant": "TV LICENCE",
+      "merchantName": "Tv Licence",
+      "words": "Bills and utilities",
+      "category": "bills",
+      "amount": 14.5,
+      "date": "2026-11-01"
+     },
+     {
+      "merchant": "PUREGYM",
+      "merchantName": "Puregym",
+      "words": "Health and fitness",
+      "category": "fitness",
+      "amount": 24.99,
+      "date": "2026-11-02"
+     },
+     {
+      "merchant": "MANCHESTER CITY COUNCIL TAX",
+      "merchantName": "Manchester City Council Tax",
+      "words": "Bills and utilities",
+      "category": "bills",
+      "amount": 168.0,
+      "date": "2026-11-03"
+     },
+     {
+      "merchant": "OCTOPUS ENERGY",
+      "merchantName": "Octopus Energy",
+      "words": "Bills and utilities",
+      "category": "bills",
+      "amount": 118.0,
+      "date": "2026-11-05"
+     },
+     {
+      "merchant": "NETFLIX.COM",
+      "merchantName": "Netflix",
+      "words": "Subscriptions",
+      "category": "subscriptions",
+      "amount": 10.99,
+      "date": "2026-11-08"
+     },
+     {
+      "merchant": "AVIVA CAR INSURANCE",
+      "merchantName": "Aviva Car Insurance",
+      "words": "Insurance",
+      "category": "insurance",
+      "amount": 61.2,
+      "date": "2026-11-09"
+     },
+     {
+      "merchant": "APPLE.COM/BILL ICLOUD",
+      "merchantName": "Apple iCloud",
+      "words": "Subscriptions",
+      "category": "subscriptions",
+      "amount": 2.99,
+      "date": "2026-11-10"
+     },
+     {
+      "merchant": "UNITED UTILITIES WATER",
+      "merchantName": "United Utilities Water",
+      "words": "Bills and utilities",
+      "category": "bills",
+      "amount": 38.4,
+      "date": "2026-11-12"
+     },
+     {
+      "merchant": "AMAZON PRIME",
+      "merchantName": "Amazon Prime",
+      "words": "Subscriptions",
+      "category": "subscriptions",
+      "amount": 8.99,
+      "date": "2026-11-14"
+     },
+     {
+      "merchant": "SKY BROADBAND",
+      "merchantName": "Sky Broadband",
+      "words": "Bills and utilities",
+      "category": "bills",
+      "amount": 42.0,
+      "date": "2026-11-18"
+     },
+     {
+      "merchant": "EE MOBILE",
+      "merchantName": "EE Mobile",
+      "words": "Bills and utilities",
+      "category": "bills",
+      "amount": 28.0,
+      "date": "2026-11-20"
+     },
+     {
+      "merchant": "DISNEY PLUS",
+      "merchantName": "Disney Plus",
+      "words": "Subscriptions",
+      "category": "subscriptions",
+      "amount": 7.99,
+      "date": "2026-11-22"
+     },
+     {
+      "merchant": "TRANSFER TO SAVINGS",
+      "merchantName": "Transfer To Savings",
+      "words": "Moved to savings",
+      "category": "savings",
+      "amount": 200.0,
+      "date": "2026-11-26"
+     },
+     {
+      "merchant": "SPOTIFY",
+      "merchantName": "Spotify",
+      "words": "Subscriptions",
+      "category": "subscriptions",
+      "amount": 11.99,
+      "date": "2026-11-27"
+     }
+    ],
+    "everydaySpending": [
+     {
+      "category": "groceries",
+      "words": "Groceries",
+      "amount": 311.73
+     },
+     {
+      "category": "shopping",
+      "words": "Shopping",
+      "amount": 300.31
+     },
+     {
+      "category": "transport",
+      "words": "Transport",
+      "amount": 229.45
+     },
+     {
+      "category": "eating_out",
+      "words": "Eating out",
+      "amount": 160.77
+     },
+     {
+      "category": "takeaways",
+      "words": "Takeaways",
+      "amount": 127.5
+     },
+     {
+      "category": "cash",
+      "words": "Cash withdrawals",
+      "amount": 50.91
+     },
+     {
+      "category": "coffee",
+      "words": "Coffee and snacks",
+      "amount": 48.71
+     },
+     {
+      "category": "entertainment",
+      "words": "Entertainment",
+      "amount": 39.6
+     },
+     {
+      "category": "gifts",
+      "words": "Gifts and charity",
+      "amount": 4.77
+     }
+    ],
+    "sideIncome": 70.31,
+    "endBalance": 2987.32
+   },
+   {
+    "month": "2026-12",
+    "expectedIn": 3220.31,
+    "expectedOut": 3061.79,
+    "regularIn": [
+     {
+      "merchant": "ACME ENGINEERING LTD SALARY",
+      "merchantName": "Acme Engineering Ltd Salary",
+      "words": "Salary",
+      "category": "salary",
+      "amount": 3150.0,
+      "date": "2026-12-25"
+     }
+    ],
+    "regularOut": [
+     {
+      "merchant": "NATIONWIDE MORTGAGE",
+      "merchantName": "Nationwide Mortgage",
+      "words": "Mortgage or rent",
+      "category": "housing",
+      "amount": 1050.0,
+      "date": "2026-12-01"
+     },
+     {
+      "merchant": "TV LICENCE",
+      "merchantName": "Tv Licence",
+      "words": "Bills and utilities",
+      "category": "bills",
+      "amount": 14.5,
+      "date": "2026-12-01"
+     },
+     {
+      "merchant": "PUREGYM",
+      "merchantName": "Puregym",
+      "words": "Health and fitness",
+      "category": "fitness",
+      "amount": 24.99,
+      "date": "2026-12-02"
+     },
+     {
+      "merchant": "MANCHESTER CITY COUNCIL TAX",
+      "merchantName": "Manchester City Council Tax",
+      "words": "Bills and utilities",
+      "category": "bills",
+      "amount": 168.0,
+      "date": "2026-12-03"
+     },
+     {
+      "merchant": "OCTOPUS ENERGY",
+      "merchantName": "Octopus Energy",
+      "words": "Bills and utilities",
+      "category": "bills",
+      "amount": 118.0,
+      "date": "2026-12-05"
+     },
+     {
+      "merchant": "NETFLIX.COM",
+      "merchantName": "Netflix",
+      "words": "Subscriptions",
+      "category": "subscriptions",
+      "amount": 10.99,
+      "date": "2026-12-08"
+     },
+     {
+      "merchant": "AVIVA CAR INSURANCE",
+      "merchantName": "Aviva Car Insurance",
+      "words": "Insurance",
+      "category": "insurance",
+      "amount": 61.2,
+      "date": "2026-12-09"
+     },
+     {
+      "merchant": "APPLE.COM/BILL ICLOUD",
+      "merchantName": "Apple iCloud",
+      "words": "Subscriptions",
+      "category": "subscriptions",
+      "amount": 2.99,
+      "date": "2026-12-10"
+     },
+     {
+      "merchant": "UNITED UTILITIES WATER",
+      "merchantName": "United Utilities Water",
+      "words": "Bills and utilities",
+      "category": "bills",
+      "amount": 38.4,
+      "date": "2026-12-12"
+     },
+     {
+      "merchant": "AMAZON PRIME",
+      "merchantName": "Amazon Prime",
+      "words": "Subscriptions",
+      "category": "subscriptions",
+      "amount": 8.99,
+      "date": "2026-12-14"
+     },
+     {
+      "merchant": "SKY BROADBAND",
+      "merchantName": "Sky Broadband",
+      "words": "Bills and utilities",
+      "category": "bills",
+      "amount": 42.0,
+      "date": "2026-12-18"
+     },
+     {
+      "merchant": "EE MOBILE",
+      "merchantName": "EE Mobile",
+      "words": "Bills and utilities",
+      "category": "bills",
+      "amount": 28.0,
+      "date": "2026-12-20"
+     },
+     {
+      "merchant": "DISNEY PLUS",
+      "merchantName": "Disney Plus",
+      "words": "Subscriptions",
+      "category": "subscriptions",
+      "amount": 7.99,
+      "date": "2026-12-22"
+     },
+     {
+      "merchant": "TRANSFER TO SAVINGS",
+      "merchantName": "Transfer To Savings",
+      "words": "Moved to savings",
+      "category": "savings",
+      "amount": 200.0,
+      "date": "2026-12-26"
+     },
+     {
+      "merchant": "SPOTIFY",
+      "merchantName": "Spotify",
+      "words": "Subscriptions",
+      "category": "subscriptions",
+      "amount": 11.99,
+      "date": "2026-12-27"
+     }
+    ],
+    "everydaySpending": [
+     {
+      "category": "groceries",
+      "words": "Groceries",
+      "amount": 311.73
+     },
+     {
+      "category": "shopping",
+      "words": "Shopping",
+      "amount": 300.31
+     },
+     {
+      "category": "transport",
+      "words": "Transport",
+      "amount": 229.45
+     },
+     {
+      "category": "eating_out",
+      "words": "Eating out",
+      "amount": 160.77
+     },
+     {
+      "category": "takeaways",
+      "words": "Takeaways",
+      "amount": 127.5
+     },
+     {
+      "category": "cash",
+      "words": "Cash withdrawals",
+      "amount": 50.91
+     },
+     {
+      "category": "coffee",
+      "words": "Coffee and snacks",
+      "amount": 48.71
+     },
+     {
+      "category": "entertainment",
+      "words": "Entertainment",
+      "amount": 39.6
+     },
+     {
+      "category": "gifts",
+      "words": "Gifts and charity",
+      "amount": 4.77
+     }
+    ],
+    "sideIncome": 70.31,
+    "endBalance": 3145.84
+   },
+   {
+    "month": "2027-01",
+    "expectedIn": 3220.31,
+    "expectedOut": 3061.79,
+    "regularIn": [
+     {
+      "merchant": "ACME ENGINEERING LTD SALARY",
+      "merchantName": "Acme Engineering Ltd Salary",
+      "words": "Salary",
+      "category": "salary",
+      "amount": 3150.0,
+      "date": "2027-01-25"
+     }
+    ],
+    "regularOut": [
+     {
+      "merchant": "NATIONWIDE MORTGAGE",
+      "merchantName": "Nationwide Mortgage",
+      "words": "Mortgage or rent",
+      "category": "housing",
+      "amount": 1050.0,
+      "date": "2027-01-01"
+     },
+     {
+      "merchant": "TV LICENCE",
+      "merchantName": "Tv Licence",
+      "words": "Bills and utilities",
+      "category": "bills",
+      "amount": 14.5,
+      "date": "2027-01-01"
+     },
+     {
+      "merchant": "PUREGYM",
+      "merchantName": "Puregym",
+      "words": "Health and fitness",
+      "category": "fitness",
+      "amount": 24.99,
+      "date": "2027-01-02"
+     },
+     {
+      "merchant": "MANCHESTER CITY COUNCIL TAX",
+      "merchantName": "Manchester City Council Tax",
+      "words": "Bills and utilities",
+      "category": "bills",
+      "amount": 168.0,
+      "date": "2027-01-03"
+     },
+     {
+      "merchant": "OCTOPUS ENERGY",
+      "merchantName": "Octopus Energy",
+      "words": "Bills and utilities",
+      "category": "bills",
+      "amount": 118.0,
+      "date": "2027-01-05"
+     },
+     {
+      "merchant": "NETFLIX.COM",
+      "merchantName": "Netflix",
+      "words": "Subscriptions",
+      "category": "subscriptions",
+      "amount": 10.99,
+      "date": "2027-01-08"
+     },
+     {
+      "merchant": "AVIVA CAR INSURANCE",
+      "merchantName": "Aviva Car Insurance",
+      "words": "Insurance",
+      "category": "insurance",
+      "amount": 61.2,
+      "date": "2027-01-09"
+     },
+     {
+      "merchant": "APPLE.COM/BILL ICLOUD",
+      "merchantName": "Apple iCloud",
+      "words": "Subscriptions",
+      "category": "subscriptions",
+      "amount": 2.99,
+      "date": "2027-01-10"
+     },
+     {
+      "merchant": "UNITED UTILITIES WATER",
+      "merchantName": "United Utilities Water",
+      "words": "Bills and utilities",
+      "category": "bills",
+      "amount": 38.4,
+      "date": "2027-01-12"
+     },
+     {
+      "merchant": "AMAZON PRIME",
+      "merchantName": "Amazon Prime",
+      "words": "Subscriptions",
+      "category": "subscriptions",
+      "amount": 8.99,
+      "date": "2027-01-14"
+     },
+     {
+      "merchant": "SKY BROADBAND",
+      "merchantName": "Sky Broadband",
+      "words": "Bills and utilities",
+      "category": "bills",
+      "amount": 42.0,
+      "date": "2027-01-18"
+     },
+     {
+      "merchant": "EE MOBILE",
+      "merchantName": "EE Mobile",
+      "words": "Bills and utilities",
+      "category": "bills",
+      "amount": 28.0,
+      "date": "2027-01-20"
+     },
+     {
+      "merchant": "DISNEY PLUS",
+      "merchantName": "Disney Plus",
+      "words": "Subscriptions",
+      "category": "subscriptions",
+      "amount": 7.99,
+      "date": "2027-01-22"
+     },
+     {
+      "merchant": "TRANSFER TO SAVINGS",
+      "merchantName": "Transfer To Savings",
+      "words": "Moved to savings",
+      "category": "savings",
+      "amount": 200.0,
+      "date": "2027-01-26"
+     },
+     {
+      "merchant": "SPOTIFY",
+      "merchantName": "Spotify",
+      "words": "Subscriptions",
+      "category": "subscriptions",
+      "amount": 11.99,
+      "date": "2027-01-27"
+     }
+    ],
+    "everydaySpending": [
+     {
+      "category": "groceries",
+      "words": "Groceries",
+      "amount": 311.73
+     },
+     {
+      "category": "shopping",
+      "words": "Shopping",
+      "amount": 300.31
+     },
+     {
+      "category": "transport",
+      "words": "Transport",
+      "amount": 229.45
+     },
+     {
+      "category": "eating_out",
+      "words": "Eating out",
+      "amount": 160.77
+     },
+     {
+      "category": "takeaways",
+      "words": "Takeaways",
+      "amount": 127.5
+     },
+     {
+      "category": "cash",
+      "words": "Cash withdrawals",
+      "amount": 50.91
+     },
+     {
+      "category": "coffee",
+      "words": "Coffee and snacks",
+      "amount": 48.71
+     },
+     {
+      "category": "entertainment",
+      "words": "Entertainment",
+      "amount": 39.6
+     },
+     {
+      "category": "gifts",
+      "words": "Gifts and charity",
+      "amount": 4.77
+     }
+    ],
+    "sideIncome": 70.31,
+    "endBalance": 3304.36
+   }
+  ],
+  "basis": "Regular payments on their usual day; everyday spending at its average for 2026-07 to 2026-09; one-off holidays left out."
+ },
+ "monthlySpending": [
+  {
+   "month": "2026-07",
+   "total": 3579.31,
+   "discretionary": 1562.76,
+   "essential": 2016.55,
+   "categories": [
+    {
+     "category": "housing",
+     "words": "Mortgage or rent",
+     "total": 1050.0,
+     "count": 1,
+     "share": 29,
+     "discretionary": false
+    },
+    {
+     "category": "holidays",
+     "words": "Holidays and travel",
+     "total": 888.65,
+     "count": 3,
+     "share": 25,
+     "discretionary": true
+    },
+    {
+     "category": "bills",
+     "words": "Bills and utilities",
+     "total": 408.9,
+     "count": 6,
+     "share": 11,
+     "discretionary": false
+    },
+    {
+     "category": "groceries",
+     "words": "Groceries",
+     "total": 294.33,
+     "count": 5,
+     "share": 8,
+     "discretionary": false
+    },
+    {
+     "category": "eating_out",
+     "words": "Eating out",
+     "total": 208.48,
+     "count": 4,
+     "share": 6,
+     "discretionary": true
+    },
+    {
+     "category": "takeaways",
+     "words": "Takeaways",
+     "total": 174.27,
+     "count": 6,
+     "share": 5,
+     "discretionary": true
+    },
+    {
+     "category": "shopping",
+     "words": "Shopping",
+     "total": 153.32,
+     "count": 5,
+     "share": 4,
+     "discretionary": true
+    },
+    {
+     "category": "transport",
+     "words": "Transport",
+     "total": 148.04,
+     "count": 3,
+     "share": 4,
+     "discretionary": false
+    },
+    {
+     "category": "insurance",
+     "words": "Insurance",
+     "total": 61.2,
+     "count": 1,
+     "share": 2,
+     "discretionary": false
+    },
+    {
+     "category": "coffee",
+     "words": "Coffee and snacks",
+     "total": 55.2,
+     "count": 13,
+     "share": 2,
+     "discretionary": true
+    },
+    {
+     "category": "cash",
+     "words": "Cash withdrawals",
+     "total": 54.08,
+     "count": 1,
+     "share": 2,
+     "discretionary": false
+    },
+    {
+     "category": "subscriptions",
+     "words": "Subscriptions",
+     "total": 42.95,
+     "count": 5,
+     "share": 1,
+     "discretionary": true
+    },
+    {
+     "category": "fitness",
+     "words": "Health and fitness",
+     "total": 24.99,
+     "count": 1,
+     "share": 1,
+     "discretionary": true
+    },
+    {
+     "category": "entertainment",
+     "words": "Entertainment",
+     "total": 14.9,
+     "count": 1,
+     "share": 0,
+     "discretionary": true
+    }
+   ]
+  },
+  {
+   "month": "2026-08",
+   "total": 2756.08,
+   "discretionary": 537.23,
+   "essential": 2218.85,
+   "categories": [
+    {
+     "category": "housing",
+     "words": "Mortgage or rent",
+     "total": 1050.0,
+     "count": 1,
+     "share": 38,
+     "discretionary": false
+    },
+    {
+     "category": "bills",
+     "words": "Bills and utilities",
+     "total": 408.9,
+     "count": 6,
+     "share": 15,
+     "discretionary": false
+    },
+    {
+     "category": "groceries",
+     "words": "Groceries",
+     "total": 384.6,
+     "count": 5,
+     "share": 14,
+     "discretionary": false
+    },
+    {
+     "category": "transport",
+     "words": "Transport",
+     "total": 273.23,
+     "count": 8,
+     "share": 10,
+     "discretionary": false
+    },
+    {
+     "category": "shopping",
+     "words": "Shopping",
+     "total": 203.19,
+     "count": 5,
+     "share": 7,
+     "discretionary": true
+    },
+    {
+     "category": "eating_out",
+     "words": "Eating out",
+     "total": 111.68,
+     "count": 2,
+     "share": 4,
+     "discretionary": true
+    },
+    {
+     "category": "takeaways",
+     "words": "Takeaways",
+     "total": 88.36,
+     "count": 3,
+     "share": 3,
+     "discretionary": true
+    },
+    {
+     "category": "insurance",
+     "words": "Insurance",
+     "total": 61.2,
+     "count": 1,
+     "share": 2,
+     "discretionary": false
+    },
+    {
+     "category": "coffee",
+     "words": "Coffee and snacks",
+     "total": 51.75,
+     "count": 12,
+     "share": 2,
+     "discretionary": true
+    },
+    {
+     "category": "subscriptions",
+     "words": "Subscriptions",
+     "total": 42.95,
+     "count": 5,
+     "share": 2,
+     "discretionary": true
+    },
+    {
+     "category": "cash",
+     "words": "Cash withdrawals",
+     "total": 40.92,
+     "count": 1,
+     "share": 1,
+     "discretionary": false
+    },
+    {
+     "category": "fitness",
+     "words": "Health and fitness",
+     "total": 24.99,
+     "count": 1,
+     "share": 1,
+     "discretionary": true
+    },
+    {
+     "category": "gifts",
+     "words": "Gifts and charity",
+     "total": 14.31,
+     "count": 1,
+     "share": 1,
+     "discretionary": true
+    }
+   ]
+  },
+  {
+   "month": "2026-09",
+   "total": 3138.63,
+   "discretionary": 1037.46,
+   "essential": 2101.17,
+   "categories": [
+    {
+     "category": "housing",
+     "words": "Mortgage or rent",
+     "total": 1050.0,
+     "count": 1,
+     "share": 33,
+     "discretionary": false
+    },
+    {
+     "category": "shopping",
+     "words": "Shopping",
+     "total": 544.43,
+     "count": 6,
+     "share": 17,
+     "discretionary": true
+    },
+    {
+     "category": "bills",
+     "words": "Bills and utilities",
+     "total": 408.9,
+     "count": 6,
+     "share": 13,
+     "discretionary": false
+    },
+    {
+     "category": "transport",
+     "words": "Transport",
+     "total": 267.09,
+     "count": 8,
+     "share": 9,
+     "discretionary": false
+    },
+    {
+     "category": "groceries",
+     "words": "Groceries",
+     "total": 256.25,
+     "count": 4,
+     "share": 8,
+     "discretionary": false
+    },
+    {
+     "category": "eating_out",
+     "words": "Eating out",
+     "total": 162.15,
+     "count": 3,
+     "share": 5,
+     "discretionary": true
+    },
+    {
+     "category": "takeaways",
+     "words": "Takeaways",
+     "total": 119.86,
+     "count": 4,
+     "share": 4,
+     "discretionary": true
+    },
+    {
+     "category": "entertainment",
+     "words": "Entertainment",
+     "total": 103.9,
+     "count": 2,
+     "share": 3,
+     "discretionary": true
+    },
+    {
+     "category": "insurance",
+     "words": "Insurance",
+     "total": 61.2,
+     "count": 1,
+     "share": 2,
+     "discretionary": false
+    },
+    {
+     "category": "cash",
+     "words": "Cash withdrawals",
+     "total": 57.73,
+     "count": 1,
+     "share": 2,
+     "discretionary": false
+    },
+    {
+     "category": "subscriptions",
+     "words": "Subscriptions",
+     "total": 42.95,
+     "count": 5,
+     "share": 1,
+     "discretionary": true
+    },
+    {
+     "category": "coffee",
+     "words": "Coffee and snacks",
+     "total": 39.18,
+     "count": 10,
+     "share": 1,
+     "discretionary": true
+    },
+    {
+     "category": "fitness",
+     "words": "Health and fitness",
+     "total": 24.99,
+     "count": 1,
+     "share": 1,
+     "discretionary": true
+    }
+   ]
+  }
+ ],
+ "monthlyIncome": [
+  {
+   "month": "2026-07",
+   "total": 3213.47,
+   "salary": 3150.0,
+   "other": 63.47,
+   "categories": [
+    {
+     "category": "salary",
+     "words": "Salary",
+     "total": 3150.0,
+     "count": 1,
+     "share": 98,
+     "discretionary": false
+    },
+    {
+     "category": "other_income",
+     "words": "Other income",
+     "total": 63.47,
+     "count": 1,
+     "share": 2,
+     "discretionary": false
+    }
+   ]
+  },
+  {
+   "month": "2026-08",
+   "total": 3375.18,
+   "salary": 3150.0,
+   "other": 225.18,
+   "categories": [
+    {
+     "category": "salary",
+     "words": "Salary",
+     "total": 3150.0,
+     "count": 1,
+     "share": 93,
+     "discretionary": false
+    },
+    {
+     "category": "refunds",
+     "words": "Refunds",
+     "total": 142.8,
+     "count": 1,
+     "share": 4,
+     "discretionary": false
+    },
+    {
+     "category": "other_income",
+     "words": "Other income",
+     "total": 82.38,
+     "count": 1,
+     "share": 2,
+     "discretionary": false
+    }
+   ]
+  },
+  {
+   "month": "2026-09",
+   "total": 3515.08,
+   "salary": 3150.0,
+   "other": 365.08,
+   "categories": [
+    {
+     "category": "salary",
+     "words": "Salary",
+     "total": 3150.0,
+     "count": 1,
+     "share": 90,
+     "discretionary": false
+    },
+    {
+     "category": "transfers_in",
+     "words": "Transfers in",
+     "total": 300.0,
+     "count": 1,
+     "share": 9,
+     "discretionary": false
+    },
+    {
+     "category": "other_income",
+     "words": "Other income",
+     "total": 65.08,
+     "count": 1,
+     "share": 2,
+     "discretionary": false
+    }
+   ]
+  }
+ ],
+ "recurring": [
+  {
+   "merchant": "ACME ENGINEERING LTD SALARY",
+   "merchantName": "Acme Engineering Ltd Salary",
+   "category": "salary",
+   "words": "Salary",
+   "direction": "in",
+   "amount": 3150.0,
+   "dayOfMonth": 25,
+   "lastPaid": "2026-09-25",
+   "nextExpected": "2026-10-25",
+   "discretionary": false
+  },
+  {
+   "merchant": "NATIONWIDE MORTGAGE",
+   "merchantName": "Nationwide Mortgage",
+   "category": "housing",
+   "words": "Mortgage or rent",
+   "direction": "out",
+   "amount": 1050.0,
+   "dayOfMonth": 1,
+   "lastPaid": "2026-10-01",
+   "nextExpected": "2026-11-01",
+   "discretionary": false
+  },
+  {
+   "merchant": "TRANSFER TO SAVINGS",
+   "merchantName": "Transfer To Savings",
+   "category": "savings",
+   "words": "Moved to savings",
+   "direction": "move",
+   "amount": 200.0,
+   "dayOfMonth": 26,
+   "lastPaid": "2026-09-26",
+   "nextExpected": "2026-10-26",
+   "discretionary": false
+  },
+  {
+   "merchant": "MANCHESTER CITY COUNCIL TAX",
+   "merchantName": "Manchester City Council Tax",
+   "category": "bills",
+   "words": "Bills and utilities",
+   "direction": "out",
+   "amount": 168.0,
+   "dayOfMonth": 3,
+   "lastPaid": "2026-10-03",
+   "nextExpected": "2026-11-03",
+   "discretionary": false
+  },
+  {
+   "merchant": "OCTOPUS ENERGY",
+   "merchantName": "Octopus Energy",
+   "category": "bills",
+   "words": "Bills and utilities",
+   "direction": "out",
+   "amount": 118.0,
+   "dayOfMonth": 5,
+   "lastPaid": "2026-10-05",
+   "nextExpected": "2026-11-05",
+   "discretionary": false
+  },
+  {
+   "merchant": "AVIVA CAR INSURANCE",
+   "merchantName": "Aviva Car Insurance",
+   "category": "insurance",
+   "words": "Insurance",
+   "direction": "out",
+   "amount": 61.2,
+   "dayOfMonth": 9,
+   "lastPaid": "2026-10-09",
+   "nextExpected": "2026-11-09",
+   "discretionary": false
+  },
+  {
+   "merchant": "SKY BROADBAND",
+   "merchantName": "Sky Broadband",
+   "category": "bills",
+   "words": "Bills and utilities",
+   "direction": "out",
+   "amount": 42.0,
+   "dayOfMonth": 18,
+   "lastPaid": "2026-09-18",
+   "nextExpected": "2026-10-18",
+   "discretionary": false
+  },
+  {
+   "merchant": "UNITED UTILITIES WATER",
+   "merchantName": "United Utilities Water",
+   "category": "bills",
+   "words": "Bills and utilities",
+   "direction": "out",
+   "amount": 38.4,
+   "dayOfMonth": 12,
+   "lastPaid": "2026-10-12",
+   "nextExpected": "2026-11-12",
+   "discretionary": false
+  },
+  {
+   "merchant": "EE MOBILE",
+   "merchantName": "EE Mobile",
+   "category": "bills",
+   "words": "Bills and utilities",
+   "direction": "out",
+   "amount": 28.0,
+   "dayOfMonth": 20,
+   "lastPaid": "2026-09-20",
+   "nextExpected": "2026-10-20",
+   "discretionary": false
+  },
+  {
+   "merchant": "PUREGYM",
+   "merchantName": "Puregym",
+   "category": "fitness",
+   "words": "Health and fitness",
+   "direction": "out",
+   "amount": 24.99,
+   "dayOfMonth": 2,
+   "lastPaid": "2026-10-02",
+   "nextExpected": "2026-11-02",
+   "discretionary": true
+  },
+  {
+   "merchant": "TV LICENCE",
+   "merchantName": "Tv Licence",
+   "category": "bills",
+   "words": "Bills and utilities",
+   "direction": "out",
+   "amount": 14.5,
+   "dayOfMonth": 1,
+   "lastPaid": "2026-10-01",
+   "nextExpected": "2026-11-01",
+   "discretionary": false
+  },
+  {
+   "merchant": "SPOTIFY",
+   "merchantName": "Spotify",
+   "category": "subscriptions",
+   "words": "Subscriptions",
+   "direction": "out",
+   "amount": 11.99,
+   "dayOfMonth": 27,
+   "lastPaid": "2026-09-27",
+   "nextExpected": "2026-10-27",
+   "discretionary": true
+  },
+  {
+   "merchant": "NETFLIX.COM",
+   "merchantName": "Netflix",
+   "category": "subscriptions",
+   "words": "Subscriptions",
+   "direction": "out",
+   "amount": 10.99,
+   "dayOfMonth": 8,
+   "lastPaid": "2026-10-08",
+   "nextExpected": "2026-11-08",
+   "discretionary": true
+  },
+  {
+   "merchant": "AMAZON PRIME",
+   "merchantName": "Amazon Prime",
+   "category": "subscriptions",
+   "words": "Subscriptions",
+   "direction": "out",
+   "amount": 8.99,
+   "dayOfMonth": 14,
+   "lastPaid": "2026-10-14",
+   "nextExpected": "2026-11-14",
+   "discretionary": true
+  },
+  {
+   "merchant": "DISNEY PLUS",
+   "merchantName": "Disney Plus",
+   "category": "subscriptions",
+   "words": "Subscriptions",
+   "direction": "out",
+   "amount": 7.99,
+   "dayOfMonth": 22,
+   "lastPaid": "2026-09-22",
+   "nextExpected": "2026-10-22",
+   "discretionary": true
+  },
+  {
+   "merchant": "APPLE.COM/BILL ICLOUD",
+   "merchantName": "Apple iCloud",
+   "category": "subscriptions",
+   "words": "Subscriptions",
+   "direction": "out",
+   "amount": 2.99,
+   "dayOfMonth": 10,
+   "lastPaid": "2026-10-10",
+   "nextExpected": "2026-11-10",
+   "discretionary": true
+  }
+ ],
+ "discretionary": {
+  "months": [
+   "2026-07",
+   "2026-08",
+   "2026-09"
+  ],
+  "essentialPerMonth": 2112.19,
+  "discretionaryPerMonth": 1045.82,
+  "discretionaryShare": 33,
+  "habits": [
+   {
+    "category": "housing",
+    "words": "Mortgage or rent",
+    "discretionary": false,
+    "perMonth": 1050.0,
+    "timesPerMonth": 1.0,
+    "averageEach": 1050.0,
+    "topMerchants": [
+     {
+      "merchant": "NATIONWIDE MORTGAGE",
+      "perMonth": 1050.0
+     }
+    ]
+   },
+   {
+    "category": "bills",
+    "words": "Bills and utilities",
+    "discretionary": false,
+    "perMonth": 408.9,
+    "timesPerMonth": 6.0,
+    "averageEach": 68.15,
+    "topMerchants": [
+     {
+      "merchant": "MANCHESTER CITY COUNCIL TAX",
+      "perMonth": 168.0
+     },
+     {
+      "merchant": "OCTOPUS ENERGY",
+      "perMonth": 118.0
+     },
+     {
+      "merchant": "SKY BROADBAND",
+      "perMonth": 42.0
+     }
+    ]
+   },
+   {
+    "category": "groceries",
+    "words": "Groceries",
+    "discretionary": false,
+    "perMonth": 311.73,
+    "timesPerMonth": 4.7,
+    "averageEach": 66.8,
+    "topMerchants": [
+     {
+      "merchant": "SAINSBURYS",
+      "perMonth": 130.06
+     },
+     {
+      "merchant": "TESCO STORES",
+      "perMonth": 116.76
+     },
+     {
+      "merchant": "ALDI",
+      "perMonth": 64.9
+     }
+    ]
+   },
+   {
+    "category": "shopping",
+    "words": "Shopping",
+    "discretionary": true,
+    "perMonth": 300.31,
+    "timesPerMonth": 5.3,
+    "averageEach": 56.31,
+    "topMerchants": [
+     {
+      "merchant": "AMAZON.CO.UK",
+      "perMonth": 132.57
+     },
+     {
+      "merchant": "CURRYS",
+      "perMonth": 99.67
+     },
+     {
+      "merchant": "ASOS.COM",
+      "perMonth": 47.67
+     }
+    ]
+   },
+   {
+    "category": "holidays",
+    "words": "Holidays and travel",
+    "discretionary": true,
+    "perMonth": 296.22,
+    "timesPerMonth": 1.0,
+    "averageEach": 296.22,
+    "topMerchants": [
+     {
+      "merchant": "BOOKING.COM",
+      "perMonth": 162.0
+     },
+     {
+      "merchant": "EASYJET",
+      "perMonth": 79.47
+     },
+     {
+      "merchant": "SPAIN CARD PAYMENTS",
+      "perMonth": 54.75
+     }
+    ]
+   },
+   {
+    "category": "transport",
+    "words": "Transport",
+    "discretionary": false,
+    "perMonth": 229.45,
+    "timesPerMonth": 6.3,
+    "averageEach": 36.23,
+    "topMerchants": [
+     {
+      "merchant": "BP",
+      "perMonth": 121.49
+     },
+     {
+      "merchant": "SHELL",
+      "perMonth": 42.96
+     },
+     {
+      "merchant": "UBER TRIP",
+      "perMonth": 32.53
+     }
+    ]
+   },
+   {
+    "category": "eating_out",
+    "words": "Eating out",
+    "discretionary": true,
+    "perMonth": 160.77,
+    "timesPerMonth": 3.0,
+    "averageEach": 53.59,
+    "topMerchants": [
+     {
+      "merchant": "THE ALBERT PUB",
+      "perMonth": 82.57
+     },
+     {
+      "merchant": "WAGAMAMA",
+      "perMonth": 42.43
+     },
+     {
+      "merchant": "NANDOS",
+      "perMonth": 35.77
+     }
+    ]
+   },
+   {
+    "category": "takeaways",
+    "words": "Takeaways",
+    "discretionary": true,
+    "perMonth": 127.5,
+    "timesPerMonth": 4.3,
+    "averageEach": 29.42,
+    "topMerchants": [
+     {
+      "merchant": "DELIVEROO",
+      "perMonth": 59.52
+     },
+     {
+      "merchant": "JUST EAT",
+      "perMonth": 47.15
+     },
+     {
+      "merchant": "UBER EATS",
+      "perMonth": 20.83
+     }
+    ]
+   },
+   {
+    "category": "insurance",
+    "words": "Insurance",
+    "discretionary": false,
+    "perMonth": 61.2,
+    "timesPerMonth": 1.0,
+    "averageEach": 61.2,
+    "topMerchants": [
+     {
+      "merchant": "AVIVA CAR INSURANCE",
+      "perMonth": 61.2
+     }
+    ]
+   },
+   {
+    "category": "cash",
+    "words": "Cash withdrawals",
+    "discretionary": false,
+    "perMonth": 50.91,
+    "timesPerMonth": 1.0,
+    "averageEach": 50.91,
+    "topMerchants": [
+     {
+      "merchant": "ATM WITHDRAWAL",
+      "perMonth": 50.91
+     }
+    ]
+   },
+   {
+    "category": "coffee",
+    "words": "Coffee and snacks",
+    "discretionary": true,
+    "perMonth": 48.71,
+    "timesPerMonth": 11.7,
+    "averageEach": 4.18,
+    "topMerchants": [
+     {
+      "merchant": "PRET A MANGER",
+      "perMonth": 21.25
+     },
+     {
+      "merchant": "STARBUCKS",
+      "perMonth": 14.88
+     },
+     {
+      "merchant": "COSTA COFFEE",
+      "perMonth": 12.58
+     }
+    ]
+   },
+   {
+    "category": "subscriptions",
+    "words": "Subscriptions",
+    "discretionary": true,
+    "perMonth": 42.95,
+    "timesPerMonth": 5.0,
+    "averageEach": 8.59,
+    "topMerchants": [
+     {
+      "merchant": "SPOTIFY",
+      "perMonth": 11.99
+     },
+     {
+      "merchant": "NETFLIX.COM",
+      "perMonth": 10.99
+     },
+     {
+      "merchant": "AMAZON PRIME",
+      "perMonth": 8.99
+     }
+    ]
+   },
+   {
+    "category": "entertainment",
+    "words": "Entertainment",
+    "discretionary": true,
+    "perMonth": 39.6,
+    "timesPerMonth": 1.0,
+    "averageEach": 39.6,
+    "topMerchants": [
+     {
+      "merchant": "TICKETMASTER",
+      "perMonth": 23.86
+     },
+     {
+      "merchant": "STEAM GAMES",
+      "perMonth": 15.74
+     }
+    ]
+   },
+   {
+    "category": "fitness",
+    "words": "Health and fitness",
+    "discretionary": true,
+    "perMonth": 24.99,
+    "timesPerMonth": 1.0,
+    "averageEach": 24.99,
+    "topMerchants": [
+     {
+      "merchant": "PUREGYM",
+      "perMonth": 24.99
+     }
+    ]
+   },
+   {
+    "category": "gifts",
+    "words": "Gifts and charity",
+    "discretionary": true,
+    "perMonth": 4.77,
+    "timesPerMonth": 0.3,
+    "averageEach": 14.31,
+    "topMerchants": [
+     {
+      "merchant": "MOONPIG",
+      "perMonth": 4.77
+     }
+    ]
+   }
+  ]
+ },
+ "goals": [
+  {
+   "name": "Holiday in Japan",
+   "target": 3000.0,
+   "byDate": "2027-06-30",
+   "saved": 800.0,
+   "neededPerMonth": 275.0,
+   "onTrack": false,
+   "plan": {
+    "months": 8,
+    "neededPerMonth": 275.0,
+    "leftOverPerMonth": 209.9,
+    "alreadyMovingToSavings": 200.0,
+    "otherGoalsPerMonthNow": 0.0,
+    "freeForThisGoalPerMonth": 209.9,
+    "gapPerMonth": 65.1,
+    "onTrack": false,
+    "reachedAtCurrentRate": {
+     "date": "2027-09-15",
+     "words": "September 2027"
+    },
+    "reachedWithMix": {
+     "date": "2027-06-15",
+     "words": "June 2027"
+    },
+    "mixSavesPerMonth": 75.08,
+    "targetDateWords": "June 2027",
+    "changes": [
+     {
+      "change": "Spend 25% less on shopping",
+      "savesPerMonth": 75.08
+     }
+    ]
+   }
+  }
+ ],
+ "choices": {
+  "in": [
+   {
+    "category": "salary",
+    "words": "Salary"
+   },
+   {
+    "category": "other_income",
+    "words": "Other income"
+   },
+   {
+    "category": "refunds",
+    "words": "Refunds"
+   },
+   {
+    "category": "transfers_in",
+    "words": "Transfers in"
+   }
+  ],
+  "out": [
+   {
+    "category": "housing",
+    "words": "Mortgage or rent"
+   },
+   {
+    "category": "bills",
+    "words": "Bills and utilities"
+   },
+   {
+    "category": "insurance",
+    "words": "Insurance"
+   },
+   {
+    "category": "groceries",
+    "words": "Groceries"
+   },
+   {
+    "category": "transport",
+    "words": "Transport"
+   },
+   {
+    "category": "subscriptions",
+    "words": "Subscriptions"
+   },
+   {
+    "category": "eating_out",
+    "words": "Eating out"
+   },
+   {
+    "category": "takeaways",
+    "words": "Takeaways"
+   },
+   {
+    "category": "coffee",
+    "words": "Coffee and snacks"
+   },
+   {
+    "category": "shopping",
+    "words": "Shopping"
+   },
+   {
+    "category": "entertainment",
+    "words": "Entertainment"
+   },
+   {
+    "category": "holidays",
+    "words": "Holidays and travel"
+   },
+   {
+    "category": "fitness",
+    "words": "Health and fitness"
+   },
+   {
+    "category": "gifts",
+    "words": "Gifts and charity"
+   },
+   {
+    "category": "cash",
+    "words": "Cash withdrawals"
+   },
+   {
+    "category": "savings",
+    "words": "Moved to savings"
+   }
+  ]
+ },
+ "talk": false,
+ "avatar": false
+}

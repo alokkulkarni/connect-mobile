@@ -1,0 +1,32 @@
+# The repository's root .gitignore is written for Python and ignores lib/, which is where a Flutter app keeps all of
+# its source. Re-include it here.
+!flutter_app/lib/
+
+# Flutter
+flutter_app/.dart_tool/
+flutter_app/.flutter-plugins
+flutter_app/.flutter-plugins-dependencies
+flutter_app/build/
+flutter_app/ios/Pods/
+flutter_app/ios/.symlinks/
+flutter_app/ios/Flutter/Generated.xcconfig
+flutter_app/ios/Flutter/flutter_export_environment.sh
+flutter_app/android/.gradle/
+flutter_app/android/local.properties
+flutter_app/coverage/
+
+# React Native
+react_native_app/node_modules/
+react_native_app/ios/Pods/
+react_native_app/ios/build/
+react_native_app/android/.gradle/
+react_native_app/android/app/build/
+react_native_app/android/build/
+react_native_app/android/local.properties
+react_native_app/coverage/
+react_native_app/.bundle/
+react_native_app/vendor/
+
+# Push credentials never go in the repository
+google-services.json
+GoogleService-Info.plist

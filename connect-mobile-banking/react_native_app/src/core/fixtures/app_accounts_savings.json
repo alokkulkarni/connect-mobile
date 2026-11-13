@@ -1,0 +1,87 @@
+{
+ "asOf": "2026-10-15",
+ "accounts": [
+  {
+   "id": "current",
+   "name": "Current account",
+   "ending": "0617",
+   "balance": 2828.8,
+   "kind": "current"
+  },
+  {
+   "id": "savings",
+   "name": "Instant access saver",
+   "ending": "3390",
+   "balance": 5150.0,
+   "kind": "savings",
+   "note": "\u00a3200 a month goes in from your current account"
+  },
+  {
+   "id": "mortgage",
+   "name": "Mortgage",
+   "ending": "8842",
+   "kind": "mortgage",
+   "monthly": 1050.0,
+   "note": "Paid on the 1st of each month"
+  }
+ ],
+ "selected": "savings",
+ "recent": [
+  {
+   "date": "2026-09-26",
+   "merchant": "FROM CURRENT ACCOUNT",
+   "amount": 200.0,
+   "category": "Transfer",
+   "merchantName": "From current account ending 0617",
+   "in": true
+  },
+  {
+   "date": "2026-09-06",
+   "merchant": "TO CURRENT ACCOUNT",
+   "amount": -300.0,
+   "category": "Transfer",
+   "merchantName": "To current account ending 0617",
+   "in": false
+  },
+  {
+   "date": "2026-08-26",
+   "merchant": "FROM CURRENT ACCOUNT",
+   "amount": 200.0,
+   "category": "Transfer",
+   "merchantName": "From current account ending 0617",
+   "in": true
+  },
+  {
+   "date": "2026-07-26",
+   "merchant": "FROM CURRENT ACCOUNT",
+   "amount": 200.0,
+   "category": "Transfer",
+   "merchantName": "From current account ending 0617",
+   "in": true
+  },
+  {
+   "date": "2026-06-26",
+   "merchant": "FROM CURRENT ACCOUNT",
+   "amount": 200.0,
+   "category": "Transfer",
+   "merchantName": "From current account ending 0617",
+   "in": true
+  },
+  {
+   "date": "2026-05-26",
+   "merchant": "FROM CURRENT ACCOUNT",
+   "amount": 200.0,
+   "category": "Transfer",
+   "merchantName": "From current account ending 0617",
+   "in": true
+  },
+  {
+   "date": "2026-04-26",
+   "merchant": "FROM CURRENT ACCOUNT",
+   "amount": 200.0,
+   "category": "Transfer",
+   "merchantName": "From current account ending 0617",
+   "in": true
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "asOf": "2026-10-15",
+ "accounts": [
+  {
+   "id": "current",
+   "name": "Current account",
+   "ending": "0617",
+   "balance": 2828.8,
+   "kind": "current"
+  },
+  {
+   "id": "savings",
+   "name": "Instant access saver",
+   "ending": "3390",
+   "balance": 5150.0,
+   "kind": "savings",
+   "note": "\u00a3200 a month goes in from your current account"
+  },
+  {
+   "id": "mortgage",
+   "name": "Mortgage",
+   "ending": "8842",
+   "kind": "mortgage",
+   "monthly": 1050.0,
+   "note": "Paid on the 1st of each month"
+  }
+ ],
+ "selected": "current",
+ "recent": [
+  {
+   "date": "2026-10-15",
+   "merchantName": "Amazon",
+   "merchant": "AMAZON.CO.UK",
+   "amount": -32.45,
+   "category": "Shopping",
+   "in": false
+  },
+  {
+   "date": "2026-10-15",
+   "merchantName": "Just Eat",
+   "merchant": "JUST EAT",
+   "amount": -26.1,
+   "category": "Takeaways",
+   "in": false
+  },
+  {
+   "date": "2026-10-14",
+   "merchantName": "Amazon Prime",
+   "merchant": "AMAZON PRIME",
+   "amount": -8.99,
+   "category": "Subscriptions",
+   "in": false
+  },
+  {
+   "date": "2026-10-14",
+   "merchantName": "Starbucks",
+   "merchant": "STARBUCKS",
+   "amount": -4.77,
+   "category": "Coffee and snacks",
+   "in": false
+  },
+  {
+   "date": "2026-10-13",
+   "merchantName": "Aldi",
+   "merchant": "ALDI",
+   "amount": -91.78,
+   "category": "Groceries",
+   "in": false
+  },
+  {
+   "date": "2026-10-13",
+   "merchantName": "Aldi",
+   "merchant": "ALDI",
+   "amount": -83.37,
+   "category": "Groceries",
+   "in": false
+  },
+  {
+   "date": "2026-10-13",
+   "merchantName": "Uber Trip",
+   "merchant": "UBER TRIP",
+   "amount": -11.97,
+   "category": "Transport",
+   "in": false
+  },
+  {
+   "date": "2026-10-13",
+   "merchantName": "Etsy Payout",
+   "merchant": "ETSY PAYOUT",
+   "amount": 61.14,
+   "category": "Other income",
+   "in": true
+  },
+  {
+   "date": "2026-10-12",
+   "merchantName": "United Utilities Water",
+   "merchant": "UNITED UTILITIES WATER",
+   "amount": -38.4,
+   "category": "Bills and utilities",
+   "in": false
+  },
+  {
+   "date": "2026-10-11",
+   "merchantName": "Just Eat",
+   "merchant": "JUST EAT",
+   "amount": -20.34,
+   "category": "Takeaways",
+   "in": false
+  },
+  {
+   "date": "2026-10-10",
+   "merchantName": "Amazon",
+   "merchant": "AMAZON.CO.UK",
+   "amount": -49.05,
+   "category": "Shopping",
+   "in": false
+  },
+  {
+   "date": "2026-10-10",
+   "merchantName": "Ticketmaster",
+   "merchant": "TICKETMASTER",
+   "amount": -38.44,
+   "category": "Entertainment",
+   "in": false
+  }
+ ]
+}

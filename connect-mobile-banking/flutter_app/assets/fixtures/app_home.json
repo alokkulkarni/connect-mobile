@@ -1,0 +1,96 @@
+{
+ "asOf": "2026-10-15",
+ "accounts": [
+  {
+   "id": "current",
+   "name": "Current account",
+   "ending": "0617",
+   "balance": 2828.8,
+   "kind": "current"
+  },
+  {
+   "id": "savings",
+   "name": "Instant access saver",
+   "ending": "3390",
+   "balance": 5150.0,
+   "kind": "savings",
+   "note": "\u00a3200 a month goes in from your current account"
+  },
+  {
+   "id": "mortgage",
+   "name": "Mortgage",
+   "ending": "8842",
+   "kind": "mortgage",
+   "monthly": 1050.0,
+   "note": "Paid on the 1st of each month"
+  }
+ ],
+ "recent": [
+  {
+   "date": "2026-10-15",
+   "merchantName": "Amazon",
+   "merchant": "AMAZON.CO.UK",
+   "amount": -32.45,
+   "category": "Shopping",
+   "in": false
+  },
+  {
+   "date": "2026-10-15",
+   "merchantName": "Just Eat",
+   "merchant": "JUST EAT",
+   "amount": -26.1,
+   "category": "Takeaways",
+   "in": false
+  },
+  {
+   "date": "2026-10-14",
+   "merchantName": "Amazon Prime",
+   "merchant": "AMAZON PRIME",
+   "amount": -8.99,
+   "category": "Subscriptions",
+   "in": false
+  },
+  {
+   "date": "2026-10-14",
+   "merchantName": "Starbucks",
+   "merchant": "STARBUCKS",
+   "amount": -4.77,
+   "category": "Coffee and snacks",
+   "in": false
+  },
+  {
+   "date": "2026-10-13",
+   "merchantName": "Aldi",
+   "merchant": "ALDI",
+   "amount": -91.78,
+   "category": "Groceries",
+   "in": false
+  },
+  {
+   "date": "2026-10-13",
+   "merchantName": "Aldi",
+   "merchant": "ALDI",
+   "amount": -83.37,
+   "category": "Groceries",
+   "in": false
+  }
+ ],
+ "firstName": "James",
+ "cards": [
+  {
+   "type": "debit",
+   "ending": "4821",
+   "name": "Visa debit card"
+  },
+  {
+   "type": "credit",
+   "ending": "2291",
+   "name": "Credit card"
+  }
+ ],
+ "talk": false,
+ "avatar": false,
+ "verified": true,
+ "disputePagesUrl": "",
+ "flowView": false
+}
